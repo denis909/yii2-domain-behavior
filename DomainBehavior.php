@@ -2,7 +2,7 @@
 
 namespace denis909\yii;
 
-abstract class DomainBehavior extends \yii\base\Behavior
+class DomainBehavior extends \yii\base\Behavior
 {
 
     public $attributes = [];
